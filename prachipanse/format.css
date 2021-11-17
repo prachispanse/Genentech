@@ -1,0 +1,61 @@
+
+body {
+    background-color: darkseagreen;
+}
+
+section {
+    padding-left: 2em;
+    padding-right: 2em;
+    border: solid green;
+    margin: 2em;
+}
+
+main {
+    margin: 2em;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1
+{
+  color:#FFD700
+}
+table 					/*Generic table styling for the entire website*/
+{
+  border: 2px;
+  border-collapse: collapse;
+  width: 100%;
+  padding: 5px;
+  
+}
+th, td					/*Generic table styling for the entire website*/
+{
+  border: 2px solid #8C001A;
+  border-style: inset;
+  padding: 15px;
+  text-align: left;
+}
+thead					/*Generic table styling for the entire website*/
+{
+	font-weight: bold;
+	color: white;
+	background-color: #8C001A;
+}
+.footer 				
+{
+	display: flex;
+	justify-content: center;
+	position: fixed;
+	left: 0;
+	bottom: 2px;
+	width: 100%;
+	background-color: #19303f;
+	color: white;
+	text-align: center;
+}
+
+
+
+

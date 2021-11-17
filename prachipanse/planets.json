@@ -1,0 +1,89 @@
+[
+    {
+        "Name": "Mercury",
+	"Population": "0",
+	"RotationPeriod": 1407.6,
+	"OrbitalPeriod": 88.0,
+	"Diameter": 4879,
+	"Climate": 0,
+	"SurfaceWater": 0
+        
+    },
+    {
+        "Name": "Venus",
+	"Population": "0",
+	"RotationPeriod": -5832.5,
+	"OrbitalPeriod": 224.7,
+	"Diameter": 12104,
+	"Climate": 0,
+	"SurfaceWater": 0
+    },
+    {
+        "Name": "Earth",
+	"Population": "7.753 billion",
+	"RotationPeriod": -5832.5,
+	"OrbitalPeriod": 365.2,
+	"Diameter": 12756,
+	"Climate": 0 ,
+	"SurfaceWater": 0
+    },
+    {
+        "Name": "Mars",
+	"Population": "0",
+	"RotationPeriod": -5832.5,
+	"OrbitalPeriod": 687.0,
+	"Diameter": 6792,
+	"Climate": 0,
+	"SurfaceWater": 0
+    },
+    {
+        "Name": "Jupiter",
+	"Population": "0",
+	"RotationPeriod": 9.9,
+	"OrbitalPeriod": 4331,
+	"Diameter": 142984,
+	"Climate": 0,
+	"SurfaceWater": 0
+        
+    },
+    {
+        "Name": "Saturn",
+	"Population": "0",
+	"RotationPeriod": 10.7,
+	"OrbitalPeriod": 10747,
+	"Diameter": 120536,
+	"Climate": 0,
+	"SurfaceWater": 0
+        
+    },
+    {
+       	"Name": "Uranus",
+	"Population": "0",
+	"RotationPeriod": -17.2,
+	"OrbitalPeriod": 30589,
+	"Diameter": 51118,
+	"Climate": 0,
+	"SurfaceWater": 0
+        
+    },
+    {
+       	"Name": "Neptune",
+	"Population":"0",
+	"RotationPeriod": 16.1,
+	"OrbitalPeriod": 59800,
+	"Diameter": 12104,
+	"Climate": 0,
+	"SurfaceWater":0
+        
+    },
+    {
+        "Name": "Pluto",
+	"Population": "0",
+	"RotationPeriod": -153.3,
+	"OrbitalPeriod": 90560,
+	"Diameter": 2370,
+	"Climate": 0,
+	"SurfaceWater": 0
+    }
+    
+]
